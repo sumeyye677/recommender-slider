@@ -1,108 +1,753 @@
 [
   {
+   "id": 1,
+    "groupCode": "ONLY_JEANS_WIDE_BLUE_001",
     "brand": "ONLY",
     "name": "Jeans Wide Blauw",
     "price": "€ 49,99",
+    "size": "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2022/04/27/114233/f1024951-0a17-474f-91ef-7cb4a73fe3eb_size608x912_cropCenter.jpg",
-    "url":"https://www.thefashionstore.be/nl/only-jeans-wide-blauw-399090/"
+    "url": "https://www.thefashionstore.be/nl/only-jeans-wide-blauw-399090/"
   },
-  {
-    "brand": "VERO MODA", 
+    {
+   "id": 2,
+    "groupCode": "ONLY_JEANS_WIDE_BLUE_001",
+    "brand": "ONLY",
     "name": "Jeans Wide Blauw",
     "price": "€ 49,99",
+    "size": "S",
+    "image": "https://thefashionstore.b-cdn.net/products/2022/04/27/114233/f1024951-0a17-474f-91ef-7cb4a73fe3eb_size608x912_cropCenter.jpg",
+    "url": "https://www.thefashionstore.be/nl/only-jeans-wide-blauw-399090/"
+  },
+    {
+   "id": 3,
+    "groupCode": "ONLY_JEANS_WIDE_BLUE_001",
+    "brand": "ONLY",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+    "size": "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2022/04/27/114233/f1024951-0a17-474f-91ef-7cb4a73fe3eb_size608x912_cropCenter.jpg",
+    "url": "https://www.thefashionstore.be/nl/only-jeans-wide-blauw-399090/"
+  },
+    {
+   "id": 4,
+    "groupCode": "ONLY_JEANS_WIDE_BLUE_001",
+    "brand": "ONLY",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+    "size": "L",
+    "image": "https://thefashionstore.b-cdn.net/products/2022/04/27/114233/f1024951-0a17-474f-91ef-7cb4a73fe3eb_size608x912_cropCenter.jpg",
+    "url": "https://www.thefashionstore.be/nl/only-jeans-wide-blauw-399090/"
+  },
+    {
+   "id": 5,
+    "groupCode": "ONLY_JEANS_WIDE_BLUE_001",
+    "brand": "ONLY",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+    "size": "XL",
+    "image": "https://thefashionstore.b-cdn.net/products/2022/04/27/114233/f1024951-0a17-474f-91ef-7cb4a73fe3eb_size608x912_cropCenter.jpg",
+    "url": "https://www.thefashionstore.be/nl/only-jeans-wide-blauw-399090/"
+  },  
+  {
+    "id": 6,
+    "groupCode": "VERO_MODA_JEANS_WIDE_BLUE_002",
+    "brand": "VERO MODA",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+    "size": "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2024/02/22/274777/e0fc945c-f6d0-4413-af5d-da06fa4a1897_size427x641.jpg",
-    "url":"https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-428259-2/"
+    "url": "https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-428259-2/"
   },
   {
+    "id": 7,
+    "groupCode": "VERO_MODA_JEANS_WIDE_BLUE_002",
+    "brand": "VERO MODA",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+    "size": "S",
+    "image": "https://thefashionstore.b-cdn.net/products/2024/02/22/274777/e0fc945c-f6d0-4413-af5d-da06fa4a1897_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-428259-2/"
+  },
+  {
+    "id": 8,
+    "groupCode": "VERO_MODA_JEANS_WIDE_BLUE_002",
+    "brand": "VERO MODA",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+    "size": "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2024/02/22/274777/e0fc945c-f6d0-4413-af5d-da06fa4a1897_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-428259-2/"
+  },
+  {
+    "id": 9,
+    "groupCode": "VERO_MODA_JEANS_WIDE_BLUE_002",
+    "brand": "VERO MODA",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+    "size": "L",
+    "image": "https://thefashionstore.b-cdn.net/products/2024/02/22/274777/e0fc945c-f6d0-4413-af5d-da06fa4a1897_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-428259-2/"
+  },
+  {
+    "id": 10,
+    "groupCode": "VERO_MODA_JEANS_WIDE_BLUE_002",
+    "brand": "VERO MODA",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+    "size": "XL",
+    "image": "https://thefashionstore.b-cdn.net/products/2024/02/22/274777/e0fc945c-f6d0-4413-af5d-da06fa4a1897_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-428259-2/"
+  },
+ {
+    "id": 11,
+    "groupCode": "STREET_ONE_JEANS_WIDE_BLUE_003",
     "brand": "STREET ONE",
-    "name": "Jeans Wide Blauw", 
+    "name": "Jeans Wide Blauw",
     "price": "€ 59,99",
+    "size": "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/387615/14ed65f5-777b-4e79-9527-3f6089e7dd66_size427x641.jpg",
-    "url":"https://www.thefashionstore.be/nl/street-one-jeans-wide-blauw-447926-1/"
+    "url": "https://www.thefashionstore.be/nl/street-one-jeans-wide-blauw-447926-1/"
   },
-  {
+   {
+    "id": 12,
+    "groupCode": "STREET_ONE_JEANS_WIDE_BLUE_003",
+    "brand": "STREET ONE",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 59,99",
+    "size": "S",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/387615/14ed65f5-777b-4e79-9527-3f6089e7dd66_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/street-one-jeans-wide-blauw-447926-1/"
+  },
+   {
+    "id": 13,
+    "groupCode": "STREET_ONE_JEANS_WIDE_BLUE_003",
+    "brand": "STREET ONE",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 59,99",
+    "size": "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/387615/14ed65f5-777b-4e79-9527-3f6089e7dd66_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/street-one-jeans-wide-blauw-447926-1/"
+  },
+   {
+    "id": 14,
+    "groupCode": "STREET_ONE_JEANS_WIDE_BLUE_003",
+    "brand": "STREET ONE",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 59,99",
+    "size": "L",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/387615/14ed65f5-777b-4e79-9527-3f6089e7dd66_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/street-one-jeans-wide-blauw-447926-1/"
+  },
+   {
+    "id": 15,
+    "groupCode": "STREET_ONE_JEANS_WIDE_BLUE_003",
+    "brand": "STREET ONE",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 59,99",
+    "size": "XL",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/387615/14ed65f5-777b-4e79-9527-3f6089e7dd66_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/street-one-jeans-wide-blauw-447926-1/"
+  },
+   {
+    "id": 16,
+    "groupCode": "MANGO_JEANS_STRAIGHT_BLUE_004",
     "brand": "Mango",
     "name": "Jeans Straight Blauw",
-    "price": "€ 39,99", 
+    "price": "€ 39,99",
+    "size": "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size427x641.jpg",
-    "url":"https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+    "url": "https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+  },
+   {
+    "id": 17,
+    "groupCode": "MANGO_JEANS_STRAIGHT_BLUE_004",
+    "brand": "Mango",
+    "name": "Jeans Straight Blauw",
+    "price": "€ 39,99",
+    "size": "S",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+  },
+   {
+    "id": 18,
+    "groupCode": "MANGO_JEANS_STRAIGHT_BLUE_004",
+    "brand": "Mango",
+    "name": "Jeans Straight Blauw",
+    "price": "€ 39,99",
+    "size": "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+  },
+   {
+    "id": 19,
+    "groupCode": "MANGO_JEANS_STRAIGHT_BLUE_004",
+    "brand": "Mango",
+    "name": "Jeans Straight Blauw",
+    "price": "€ 39,99",
+    "size": "L",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+  },
+   {
+    "id": 20,
+    "groupCode": "MANGO_JEANS_STRAIGHT_BLUE_004",
+    "brand": "Mango",
+    "name": "Jeans Straight Blauw",
+    "price": "€ 39,99",
+    "size": "XL",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
   },
   {
+    "id": 21,
+    "groupCode": "OBJECT_JEANS_BOOTCUT_BLUE_005",
     "brand": "Object",
     "name": "Jeans Bootcut Blauw",
     "price": "€ 69,99",
+    "size": "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2025/08/11/383042/cea5319e-8984-4ed6-b208-17516e1042ca_size427x641.jpg",
-    "url":"https://www.thefashionstore.be/nl/object-jeans-wide-blauw-450400/"
+    "url": "https://www.thefashionstore.be/nl/object-jeans-wide-blauw-450400/"
   },
-    {
+  {
+    "id": 22,
+    "groupCode": "OBJECT_JEANS_BOOTCUT_BLUE_005",
+    "brand": "Object",
+    "name": "Jeans Bootcut Blauw",
+    "price": "€ 69,99",
+    "size": "S",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/11/383042/cea5319e-8984-4ed6-b208-17516e1042ca_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/object-jeans-wide-blauw-450400/"
+  },
+  {
+    "id": 23,
+    "groupCode": "OBJECT_JEANS_BOOTCUT_BLUE_005",
+    "brand": "Object",
+    "name": "Jeans Bootcut Blauw",
+    "price": "€ 69,99",
+    "size": "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/11/383042/cea5319e-8984-4ed6-b208-17516e1042ca_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/object-jeans-wide-blauw-450400/"
+  },
+  {
+    "id": 24,
+    "groupCode": "OBJECT_JEANS_BOOTCUT_BLUE_005",
+    "brand": "Object",
+    "name": "Jeans Bootcut Blauw",
+    "price": "€ 69,99",
+    "size": "L",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/11/383042/cea5319e-8984-4ed6-b208-17516e1042ca_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/object-jeans-wide-blauw-450400/"
+  },
+  {
+    "id": 25,
+    "groupCode": "OBJECT_JEANS_BOOTCUT_BLUE_005",
+    "brand": "Object",
+    "name": "Jeans Bootcut Blauw",
+    "price": "€ 69,99",
+    "size": "XL",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/11/383042/cea5319e-8984-4ed6-b208-17516e1042ca_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/object-jeans-wide-blauw-450400/"
+  },
+  {
+    "id": 26,
+    "groupCode": "ELLEN_JEANS_WIDE_BLUE_006",
     "brand": "ELLEN",
     "name": "Jeans Wide Blauw",
     "price": "€ 89,99",
+    "size": "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2025/07/31/380227/fa3ba88f-1f5c-4707-bc3a-f2ec31099642_size427x641.jpg",
-    "url":"https://www.thefashionstore.be/nl/ellen-jeans-wide-blauw-451348/"
+    "url": "https://www.thefashionstore.be/nl/ellen-jeans-wide-blauw-451348/"
   },
-    {
+  {
+    "id": 27,
+    "groupCode": "ELLEN_JEANS_WIDE_BLUE_006",
+    "brand": "ELLEN",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 89,99",
+    "size": "S",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/07/31/380227/fa3ba88f-1f5c-4707-bc3a-f2ec31099642_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/ellen-jeans-wide-blauw-451348/"
+  },
+  {
+    "id": 28,
+    "groupCode": "ELLEN_JEANS_WIDE_BLUE_006",
+    "brand": "ELLEN",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 89,99",
+    "size": "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/07/31/380227/fa3ba88f-1f5c-4707-bc3a-f2ec31099642_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/ellen-jeans-wide-blauw-451348/"
+  },
+  {
+    "id": 29,
+    "groupCode": "ELLEN_JEANS_WIDE_BLUE_006",
+    "brand": "ELLEN",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 89,99",
+    "size": "L",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/07/31/380227/fa3ba88f-1f5c-4707-bc3a-f2ec31099642_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/ellen-jeans-wide-blauw-451348/"
+  },
+  {
+    "id": 30,
+    "groupCode": "ELLEN_JEANS_WIDE_BLUE_006",
+    "brand": "ELLEN",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 89,99",
+    "size": "XL2",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/07/31/380227/fa3ba88f-1f5c-4707-bc3a-f2ec31099642_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/ellen-jeans-wide-blauw-451348/"
+  },
+  {
+    "id": 31,
+    "groupCode": "VILA_JEANS_WIDE_GRIJS_007",
     "brand": "Vila",
     "name": "Jeans Wide Grijs",
     "price": "€ 65,99",
+    "size": "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2025/01/20/342771/afcdd1d3-99d6-4808-bfc6-0ec55018fb07_size427x641.jpg",
-    "url" : "https://www.thefashionstore.be/nl/vila-jeans-wide-grijs-442228-2/"
+    "url": "https://www.thefashionstore.be/nl/vila-jeans-wide-grijs-442228-2/"
   },
     {
+    "id": 32,
+    "groupCode": "VILA_JEANS_WIDE_GRIJS_007",
+    "brand": "Vila",
+    "name": "Jeans Wide Grijs",
+    "price": "€ 65,99",
+    "size": "S",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/01/20/342771/afcdd1d3-99d6-4808-bfc6-0ec55018fb07_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/vila-jeans-wide-grijs-442228-2/"
+  },
+    {
+    "id": 33,
+    "groupCode": "VILA_JEANS_WIDE_GRIJS_007",
+    "brand": "Vila",
+    "name": "Jeans Wide Grijs",
+    "price": "€ 65,99",
+    "size": "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/01/20/342771/afcdd1d3-99d6-4808-bfc6-0ec55018fb07_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/vila-jeans-wide-grijs-442228-2/"
+  },
+    {
+    "id": 34,
+    "groupCode": "VILA_JEANS_WIDE_GRIJS_007",
+    "brand": "Vila",
+    "name": "Jeans Wide Grijs",
+    "price": "€ 65,99",
+    "size": "L",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/01/20/342771/afcdd1d3-99d6-4808-bfc6-0ec55018fb07_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/vila-jeans-wide-grijs-442228-2/"
+  },
+    {
+    "id": 35,
+    "groupCode": "VILA_JEANS_WIDE_GRIJS_007",
+    "brand": "Vila",
+    "name": "Jeans Wide Grijs",
+    "price": "€ 65,99",
+    "size": "XL",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/01/20/342771/afcdd1d3-99d6-4808-bfc6-0ec55018fb07_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/vila-jeans-wide-grijs-442228-2/"
+  },
+   {
+    "id": 36,
+    "groupCode": "MAC_JEANS_WIDE_BLUE_008",
     "brand": "MAC",
     "name": "Jeans Wide Blauw",
     "price": "€ 109,95",
+    "size": "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2025/06/23/317693/a6d1e2fd-3767-4da8-b596-67336dc6dc2b_size427x641.jpg",
-    "url":"https://www.thefashionstore.be/nl/mac-jeans-wide-blauw-436428-10/"
+    "url": "https://www.thefashionstore.be/nl/mac-jeans-wide-blauw-436428-10/"
   },
-    {
+   {
+    "id": 37,
+    "groupCode": "MAC_JEANS_WIDE_BLUE_008",
+    "brand": "MAC",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 109,95",
+    "size": "S",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/06/23/317693/a6d1e2fd-3767-4da8-b596-67336dc6dc2b_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/mac-jeans-wide-blauw-436428-10/"
+  },
+   {
+    "id": 38,
+    "groupCode": "MAC_JEANS_WIDE_BLUE_008",
+    "brand": "MAC",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 109,95",
+    "size": "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/06/23/317693/a6d1e2fd-3767-4da8-b596-67336dc6dc2b_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/mac-jeans-wide-blauw-436428-10/"
+  },
+   {
+    "id": 39,
+    "groupCode": "MAC_JEANS_WIDE_BLUE_008",
+    "brand": "MAC",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 109,95",
+    "size": "L",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/06/23/317693/a6d1e2fd-3767-4da8-b596-67336dc6dc2b_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/mac-jeans-wide-blauw-436428-10/"
+  },
+   {
+    "id": 40,
+    "groupCode": "MAC_JEANS_WIDE_BLUE_008",
+    "brand": "MAC",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 109,95",
+    "size": "XL",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/06/23/317693/a6d1e2fd-3767-4da8-b596-67336dc6dc2b_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/mac-jeans-wide-blauw-436428-10/"
+  },
+  {
+    "id": 41,
+    "groupCode": "ONLY_JEANS_WIDE_ECRU_009",
     "brand": "ONLY",
     "name": "Jeans Wide Ecru",
     "price": "€ 44,99",
+    "size": "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2024/03/08/289289/5d557b11-ad69-423d-aaeb-4d00666450c9_size427x641.jpg",
-    "url":"https://www.thefashionstore.be/nl/only-jeans-wide-ecru-428993-2/"
+    "url": "https://www.thefashionstore.be/nl/only-jeans-wide-ecru-428993-2/"
   },
-    {
+  {
+    "id": 42,
+    "groupCode": "ONLY_JEANS_WIDE_ECRU_009",
+    "brand": "ONLY",
+    "name": "Jeans Wide Ecru",
+    "price": "€ 44,99",
+    "size": "S",
+    "image": "https://thefashionstore.b-cdn.net/products/2024/03/08/289289/5d557b11-ad69-423d-aaeb-4d00666450c9_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/only-jeans-wide-ecru-428993-2/"
+  },
+  {
+    "id": 43,
+    "groupCode": "ONLY_JEANS_WIDE_ECRU_009",
+    "brand": "ONLY",
+    "name": "Jeans Wide Ecru",
+    "price": "€ 44,99",
+    "size": "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2024/03/08/289289/5d557b11-ad69-423d-aaeb-4d00666450c9_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/only-jeans-wide-ecru-428993-2/"
+  },
+  {
+    "id": 44,
+    "groupCode": "ONLY_JEANS_WIDE_ECRU_009",
+    "brand": "ONLY",
+    "name": "Jeans Wide Ecru",
+    "price": "€ 44,99",
+    "size": "L",
+    "image": "https://thefashionstore.b-cdn.net/products/2024/03/08/289289/5d557b11-ad69-423d-aaeb-4d00666450c9_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/only-jeans-wide-ecru-428993-2/"
+  },
+  {
+    "id": 45,
+    "groupCode": "ONLY_JEANS_WIDE_ECRU_009",
+    "brand": "ONLY",
+    "name": "Jeans Wide Ecru",
+    "price": "€ 44,99",
+    "size": "XL",
+    "image": "https://thefashionstore.b-cdn.net/products/2024/03/08/289289/5d557b11-ad69-423d-aaeb-4d00666450c9_size427x641.jpg",
+    "url": "https://www.thefashionstore.be/nl/only-jeans-wide-ecru-428993-2/"
+  },
+   {
+    "id" : 46,
+    "groupCode" : "VERO_MODA_JEANS_WIDE_BLAUW_010",
     "brand": "Vero Moda",
     "name": "Jeans Wide Blauw",
     "price": "€ 49,99",
+     "size" : "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2025/09/02/387116/a79ee174-7d89-479d-a59f-c8988b35ee31_size427x641.jpg",
     "url":"https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-454994/"
   },
     {
+    "id" : 47,
+    "groupCode" : "VERO_MODA_JEANS_WIDE_BLAUW_010",
+    "brand": "Vero Moda",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+     "size" : "XS",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/09/02/387116/a79ee174-7d89-479d-a59f-c8988b35ee31_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-454994/"
+  },
+    {
+    "id" : 48,
+    "groupCode" : "VERO_MODA_JEANS_WIDE_BLAUW_010",
+    "brand": "Vero Moda",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+     "size" : "XS",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/09/02/387116/a79ee174-7d89-479d-a59f-c8988b35ee31_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-454994/"
+  },
+   {
+    "id" : 49,
+    "groupCode" : "VERO_MODA_JEANS_WIDE_BLAUW_010",
+    "brand": "Vero Moda",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+     "size" : "XS",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/09/02/387116/a79ee174-7d89-479d-a59f-c8988b35ee31_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-454994/"
+  },
+   {
+    "id" : 50,
+    "groupCode" : "VERO_MODA_JEANS_WIDE_BLAUW_010",
+    "brand": "Vero Moda",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 49,99",
+     "size" : "XS",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/09/02/387116/a79ee174-7d89-479d-a59f-c8988b35ee31_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-454994/"
+  },
+   {
+   "id" : 51,
+   "groupCode" : "ONLY_JEANS_WIDE_BLAUW_011",
    "brand": "ONLY",
     "name": "Jeans Wide Blauw",
     "price": "€ 65,99",
+     "size" : "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2025/08/07/381904/97e4744c-102e-4984-96ef-dcf7d264012a_size427x641.jpg",
     "url":"https://www.thefashionstore.be/nl/only-jeans-wide-blauw-449705/"
   },
     {
+   "id" : 52,
+   "groupCode" : "ONLY_JEANS_WIDE_BLAUW_011",
+   "brand": "ONLY",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 65,99",
+    "size" : "S",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/07/381904/97e4744c-102e-4984-96ef-dcf7d264012a_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/only-jeans-wide-blauw-449705/"
+  },
+    {
+   "id" : 53,
+   "groupCode" : "ONLY_JEANS_WIDE_BLAUW_011",
+   "brand": "ONLY",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 65,99",
+    "size" : "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/07/381904/97e4744c-102e-4984-96ef-dcf7d264012a_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/only-jeans-wide-blauw-449705/"
+  },
+    {
+   "id" : 54,
+   "groupCode" : "ONLY_JEANS_WIDE_BLAUW_011",
+   "brand": "ONLY",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 65,99",
+    "size" : "L",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/07/381904/97e4744c-102e-4984-96ef-dcf7d264012a_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/only-jeans-wide-blauw-449705/"
+  },
+    {
+   "id" : 55,
+   "groupCode" : "ONLY_JEANS_WIDE_BLAUW_011",
+   "brand": "ONLY",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 65,99",
+    "size" : "XL",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/07/381904/97e4744c-102e-4984-96ef-dcf7d264012a_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/only-jeans-wide-blauw-449705/"
+  },
+   {
+    "id" : 56,
+    "groupCode" : "MANGO_JEANS_WIDE_BLAUW_012",
     "brand": "Mango",
     "name": "Jeans Wide Blauw",
     "price": "€ 39,99",
+    "size" : "XS" ,
     "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size608x912_cropCenter.jpg",
     "url":"https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
   },
     {
-   "brand": "B Young",
+    "id" : 57,
+    "groupCode" : "MANGO_JEANS_WIDE_BLAUW_012",
+    "brand": "Mango",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 39,99",
+    "size" : "S ",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size608x912_cropCenter.jpg",
+    "url":"https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+  },
+    {
+    "id" : 58,
+    "groupCode" : "MANGO_JEANS_WIDE_BLAUW_012",
+    "brand": "Mango",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 39,99",
+    "size" : "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size608x912_cropCenter.jpg",
+    "url":"https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+  },
+    {
+    "id" : 59,
+    "groupCode" : "MANGO_JEANS_WIDE_BLAUW_012",
+    "brand": "Mango",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 39,99",
+    "size" : "L" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size608x912_cropCenter.jpg",
+    "url":"https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+  },
+    {
+    "id" : 60,
+    "groupCode" : "MANGO_JEANS_WIDE_BLAUW_012",
+    "brand": "Mango",
+    "name": "Jeans Wide Blauw",
+    "price": "€ 39,99",
+    "size" : "XL" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size608x912_cropCenter.jpg",
+    "url":"https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+  },
+  {
+    "id" : 61,
+    "groupCode" : "BYOUNG_JEANS_WIDE_ZWART_013",
+     "brand": "B Young",
     "name": "Jeans Wide Zwart",
     "price": "€ 65,99",
+    "size": "XS",
     "image": "https://thefashionstore.b-cdn.net/products/2025/08/11/381668/6b71c0ea-78e0-4cd7-b19f-ddaa263b44ea_size427x641.jpg",
     "url":"https://www.thefashionstore.be/nl/only-jeans-wide-blauw-449705/"
   },
-    {
+     {
+    "id" : 62,
+    "groupCode" : "BYOUNG_JEANS_WIDE_ZWART_013",
+     "brand": "B Young",
+    "name": "Jeans Wide Zwart",
+    "price": "€ 65,99",
+    "size": "S",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/11/381668/6b71c0ea-78e0-4cd7-b19f-ddaa263b44ea_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/only-jeans-wide-blauw-449705/"
+  },
+     {
+    "id" : 63,
+    "groupCode" : "BYOUNG_JEANS_WIDE_ZWART_013",
+     "brand": "B Young",
+    "name": "Jeans Wide Zwart",
+    "price": "€ 65,99",
+    "size": "M",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/11/381668/6b71c0ea-78e0-4cd7-b19f-ddaa263b44ea_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/only-jeans-wide-blauw-449705/"
+  },
+     {
+    "id" : 64,
+    "groupCode" : "BYOUNG_JEANS_WIDE_ZWART_013",
+     "brand": "B Young",
+    "name": "Jeans Wide Zwart",
+    "price": "€ 65,99",
+    "size": "L",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/11/381668/6b71c0ea-78e0-4cd7-b19f-ddaa263b44ea_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/only-jeans-wide-blauw-449705/"
+  },
+     {
+    "id" : 65,
+    "groupCode" : "BYOUNG_JEANS_WIDE_ZWART_013",
+     "brand": "B Young",
+    "name": "Jeans Wide Zwart",
+    "price": "€ 65,99",
+    "size": "XL",
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/11/381668/6b71c0ea-78e0-4cd7-b19f-ddaa263b44ea_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/only-jeans-wide-blauw-449705/"
+  },
+  {
+    "id" : 66,
+    "groupCode" : "LIUJO_JEANS_FLARE_BLAUW_014",
     "brand": "LIU JO",
     "name": "Jeans Flare Blauw",
     "price": "€ 169,99",
+    "size" : "XS" ,
     "image": "https://thefashionstore.b-cdn.net/products/2025/08/14/383695/4eba43ba-f68d-47d0-82fb-3aac129fcac0_size608x912_cropCenter.jpg",
     "url":"https://www.thefashionstore.be/nl/liu-jo-jeans-flare-blauw-454199-2/"
   },
-    {
+      {
+    "id" : 67,
+    "groupCode" : "LIUJO_JEANS_FLARE_BLAUW_014",
+    "brand": "LIU JO",
+    "name": "Jeans Flare Blauw",
+    "price": "€ 169,99",
+    "size" : "S" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/14/383695/4eba43ba-f68d-47d0-82fb-3aac129fcac0_size608x912_cropCenter.jpg",
+    "url":"https://www.thefashionstore.be/nl/liu-jo-jeans-flare-blauw-454199-2/"
+  },
+      {
+    "id" : 68,
+    "groupCode" : "LIUJO_JEANS_FLARE_BLAUW_014",
+    "brand": "LIU JO",
+    "name": "Jeans Flare Blauw",
+    "price": "€ 169,99",
+    "size" : "M" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/14/383695/4eba43ba-f68d-47d0-82fb-3aac129fcac0_size608x912_cropCenter.jpg",
+    "url":"https://www.thefashionstore.be/nl/liu-jo-jeans-flare-blauw-454199-2/"
+  },
+      {
+    "id" : 69,
+    "groupCode" : "LIUJO_JEANS_FLARE_BLAUW_014",
+    "brand": "LIU JO",
+    "name": "Jeans Flare Blauw",
+    "price": "€ 169,99",
+    "size" : "L" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/14/383695/4eba43ba-f68d-47d0-82fb-3aac129fcac0_size608x912_cropCenter.jpg",
+    "url":"https://www.thefashionstore.be/nl/liu-jo-jeans-flare-blauw-454199-2/"
+  },
+      {
+    "id" : 70,
+    "groupCode" : "LIUJO_JEANS_FLARE_BLAUW_014",
+    "brand": "LIU JO",
+    "name": "Jeans Flare Blauw",
+    "price": "€ 169,99",
+    "size" : "XL" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/08/14/383695/4eba43ba-f68d-47d0-82fb-3aac129fcac0_size608x912_cropCenter.jpg",
+    "url":"https://www.thefashionstore.be/nl/liu-jo-jeans-flare-blauw-454199-2/"
+  },
+  {
+    "id" : 71,
+    "groupCode" : "OBJECT_JEANS_WIDE_ZWART_015",
    "brand": "OBJECT",
     "name": "Jeans Wide Zwart",
     "price": "€ 65,99",
+    "size" : "XS" ,
     "image": "https://thefashionstore.b-cdn.net/products/2025/07/22/379816/2b509dc7-d69c-41de-8028-cbf176f14827_size427x641.jpg",
     "url":"https://www.thefashionstore.be/nl/object-jeans-wide-zwart-445548-1/"
-  }
+  },
+     {
+    "id" : 72,
+    "groupCode" : "OBJECT_JEANS_WIDE_ZWART_015",
+   "brand": "OBJECT",
+    "name": "Jeans Wide Zwart",
+    "price": "€ 65,99",
+    "size" : "S" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/07/22/379816/2b509dc7-d69c-41de-8028-cbf176f14827_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/object-jeans-wide-zwart-445548-1/"
+  },
+     {
+    "id" : 73,
+    "groupCode" : "OBJECT_JEANS_WIDE_ZWART_015",
+   "brand": "OBJECT",
+    "name": "Jeans Wide Zwart",
+    "price": "€ 65,99",
+    "size" : "M" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/07/22/379816/2b509dc7-d69c-41de-8028-cbf176f14827_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/object-jeans-wide-zwart-445548-1/"
+  },
+     {
+    "id" : 74,
+    "groupCode" : "OBJECT_JEANS_WIDE_ZWART_015",
+   "brand": "OBJECT",
+    "name": "Jeans Wide Zwart",
+    "price": "€ 65,99",
+    "size" : "L" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/07/22/379816/2b509dc7-d69c-41de-8028-cbf176f14827_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/object-jeans-wide-zwart-445548-1/"
+  },
+     {
+    "id" : 75,
+    "groupCode" : "OBJECT_JEANS_WIDE_ZWART_015",
+   "brand": "OBJECT",
+    "name": "Jeans Wide Zwart",
+    "price": "€ 65,99",
+    "size" : "XL" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/07/22/379816/2b509dc7-d69c-41de-8028-cbf176f14827_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/object-jeans-wide-zwart-445548-1/"
+  },
   
 ]
