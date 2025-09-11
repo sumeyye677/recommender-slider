@@ -465,7 +465,7 @@
     "brand": "Vero Moda",
     "name": "Jeans Wide Blauw",
     "price": "€ 49,99",
-     "size" : "XS",
+     "size" : "S",
     "image": "https://thefashionstore.b-cdn.net/products/2025/09/02/387116/a79ee174-7d89-479d-a59f-c8988b35ee31_size427x641.jpg",
     "url":"https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-454994/"
   },
@@ -475,7 +475,7 @@
     "brand": "Vero Moda",
     "name": "Jeans Wide Blauw",
     "price": "€ 49,99",
-     "size" : "XS",
+     "size" : "M",
     "image": "https://thefashionstore.b-cdn.net/products/2025/09/02/387116/a79ee174-7d89-479d-a59f-c8988b35ee31_size427x641.jpg",
     "url":"https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-454994/"
   },
@@ -485,7 +485,7 @@
     "brand": "Vero Moda",
     "name": "Jeans Wide Blauw",
     "price": "€ 49,99",
-     "size" : "XS",
+     "size" : "L",
     "image": "https://thefashionstore.b-cdn.net/products/2025/09/02/387116/a79ee174-7d89-479d-a59f-c8988b35ee31_size427x641.jpg",
     "url":"https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-454994/"
   },
@@ -495,7 +495,7 @@
     "brand": "Vero Moda",
     "name": "Jeans Wide Blauw",
     "price": "€ 49,99",
-     "size" : "XS",
+     "size" : "XL",
     "image": "https://thefashionstore.b-cdn.net/products/2025/09/02/387116/a79ee174-7d89-479d-a59f-c8988b35ee31_size427x641.jpg",
     "url":"https://www.thefashionstore.be/nl/vero-moda-jeans-wide-blauw-454994/"
   },
@@ -551,53 +551,53 @@
   },
    {
     "id" : 56,
-    "groupCode" : "MANGO_JEANS_WIDE_BLAUW_012",
-    "brand": "Mango",
-    "name": "Jeans Wide Blauw",
-    "price": "€ 39,99",
+    "groupCode" : "VILA_JEANS_BARREL_BLRIN_012",
+    "brand": "VILA",
+    "name": "Jeans Barrel Bruin",
+    "price": "€ 65,99",
     "size" : "XS" ,
-    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size608x912_cropCenter.jpg",
-    "url":"https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+    "image": "https://thefashionstore.b-cdn.net/products/2025/09/08/388614/e05036c1-5765-493c-8be9-e56a54f36385_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/vila-jeans-barrel-bruin-450852/"
   },
-    {
+   {
     "id" : 57,
-    "groupCode" : "MANGO_JEANS_WIDE_BLAUW_012",
-    "brand": "Mango",
-    "name": "Jeans Wide Blauw",
-    "price": "€ 39,99",
-    "size" : "S ",
-    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size608x912_cropCenter.jpg",
-    "url":"https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+    "groupCode" : "VILA_JEANS_BARREL_BLRIN_012",
+    "brand": "VILA",
+    "name": "Jeans Barrel Bruin",
+    "price": "€ 65,99",
+    "size" : "XS" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/09/08/388614/e05036c1-5765-493c-8be9-e56a54f36385_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/vila-jeans-barrel-bruin-450852/"
   },
-    {
+     {
     "id" : 58,
-    "groupCode" : "MANGO_JEANS_WIDE_BLAUW_012",
-    "brand": "Mango",
-    "name": "Jeans Wide Blauw",
-    "price": "€ 39,99",
-    "size" : "M",
-    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size608x912_cropCenter.jpg",
-    "url":"https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+    "groupCode" : "VILA_JEANS_BARREL_BLRIN_012",
+    "brand": "VILA",
+    "name": "Jeans Barrel Bruin",
+    "price": "€ 65,99",
+    "size" : "XS" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/09/08/388614/e05036c1-5765-493c-8be9-e56a54f36385_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/vila-jeans-barrel-bruin-450852/"
   },
-    {
+   {
     "id" : 59,
-    "groupCode" : "MANGO_JEANS_WIDE_BLAUW_012",
-    "brand": "Mango",
-    "name": "Jeans Wide Blauw",
-    "price": "€ 39,99",
-    "size" : "L" ,
-    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size608x912_cropCenter.jpg",
-    "url":"https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+    "groupCode" : "VILA_JEANS_BARREL_BLRIN_012",
+    "brand": "VILA",
+    "name": "Jeans Barrel Bruin",
+    "price": "€ 65,99",
+    "size" : "XS" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/09/08/388614/e05036c1-5765-493c-8be9-e56a54f36385_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/vila-jeans-barrel-bruin-450852/"
   },
-    {
+   {
     "id" : 60,
-    "groupCode" : "MANGO_JEANS_WIDE_BLAUW_012",
-    "brand": "Mango",
-    "name": "Jeans Wide Blauw",
-    "price": "€ 39,99",
-    "size" : "XL" ,
-    "image": "https://thefashionstore.b-cdn.net/products/2025/08/28/388114/03903358-ae46-4324-9467-d57e09df7524_size608x912_cropCenter.jpg",
-    "url":"https://www.thefashionstore.be/nl/mango-jeans-straight-blauw-454350/"
+    "groupCode" : "VILA_JEANS_BARREL_BLRIN_012",
+    "brand": "VILA",
+    "name": "Jeans Barrel Bruin",
+    "price": "€ 65,99",
+    "size" : "XS" ,
+    "image": "https://thefashionstore.b-cdn.net/products/2025/09/08/388614/e05036c1-5765-493c-8be9-e56a54f36385_size427x641.jpg",
+    "url":"https://www.thefashionstore.be/nl/vila-jeans-barrel-bruin-450852/"
   },
   {
     "id" : 61,
