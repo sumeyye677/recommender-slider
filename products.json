@@ -17,7 +17,7 @@
     "name": "Jeans Wide Blauw",
     "price": "€ 49,99",
     "size": "S",
-    "inStock": true,
+    "inStock": false,
     "image": "https://thefashionstore.b-cdn.net/products/2022/04/27/114233/f1024951-0a17-474f-91ef-7cb4a73fe3eb_size608x912_cropCenter.jpg",
     "url": "https://www.thefashionstore.be/nl/only-jeans-wide-blauw-399090/"
   },
@@ -28,7 +28,7 @@
     "name": "Jeans Wide Blauw",
     "price": "€ 49,99",
     "size": "M",
-    "inStock": true,
+    "inStock": false,
     "image": "https://thefashionstore.b-cdn.net/products/2022/04/27/114233/f1024951-0a17-474f-91ef-7cb4a73fe3eb_size608x912_cropCenter.jpg",
     "url": "https://www.thefashionstore.be/nl/only-jeans-wide-blauw-399090/"
   },
@@ -39,7 +39,7 @@
     "name": "Jeans Wide Blauw",
     "price": "€ 49,99",
     "size": "L",
-      "inStock": true,
+    "inStock": false,
     "image": "https://thefashionstore.b-cdn.net/products/2022/04/27/114233/f1024951-0a17-474f-91ef-7cb4a73fe3eb_size608x912_cropCenter.jpg",
     "url": "https://www.thefashionstore.be/nl/only-jeans-wide-blauw-399090/"
   },
@@ -50,7 +50,7 @@
     "name": "Jeans Wide Blauw",
     "price": "€ 49,99",
     "size": "XL",
-      "inStock": true,
+    "inStock": false,
     "image": "https://thefashionstore.b-cdn.net/products/2022/04/27/114233/f1024951-0a17-474f-91ef-7cb4a73fe3eb_size608x912_cropCenter.jpg",
     "url": "https://www.thefashionstore.be/nl/only-jeans-wide-blauw-399090/"
   },  
